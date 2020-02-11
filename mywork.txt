@@ -1,0 +1,15 @@
+My Asscoiate Id : 844827
+Other team members ID's : 844101, 844104, 845137.
+Team lead ID : 844829
+My Role in team:
+1. To develop contact page.
+My development file:
+ 1. contactUs.html
+I am good at:
+1. HTML
+2. Css
+3. Bootstrap
+4. Documentation
+
+Feedback:
+1. Providing the information about basis of evaluation would be little helpful.
